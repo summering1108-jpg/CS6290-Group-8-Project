@@ -1,4 +1,5 @@
 # Project AI Agent Workflow
+![Sequence Diagram](/docs/diagram/Deployment%20diagram.png)
 
 
 ## 1. L1: AI Agent
